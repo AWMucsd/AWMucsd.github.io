@@ -7,3 +7,7 @@ This is a very simple starting point if you wish to use Alembic [as a Jekyll the
 or
 
 **[Download the GitHub Pages kit](https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip)**
+
+# Figured we could put notes for ourselves here:
+
+In the index.md file, the image is the long horizontal one
