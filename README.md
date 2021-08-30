@@ -11,3 +11,7 @@ or
 # Figured we could put notes for ourselves here:
 
 In the index.md file, the image is the long horizontal one
+
+# Ideas
+
+Make the "blog" tab an "events" tab and have "posts" be info about mentor-mentee, 4 yr plan, etc
