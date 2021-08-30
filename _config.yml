@@ -23,8 +23,8 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'AWMUCSD'
+description: 'AWM UCSD website'
 permalink: pretty
 logo: AWMSimple.png
 
@@ -34,12 +34,24 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: HOME
+- title: home
   url: /
-- title: ABOUT US
+- title: about us
   url: /about/
-- title: LEADERSHIP
+- title: leadership
   url: /leadership/
+- title: join us
+  url: /join/
+- title: 4 year plans
+  url: /fourYrPlan/
+- title: mentor mentee
+  url: /mentorMentee/
+- title: intro to math
+  url: /introToMathAreas/
+- title: links
+  url: /generalUCSDlinks/
+- title: contact us
+  url: /contactUs/
 - title: Blog
   url: /blog/
 
