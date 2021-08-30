@@ -1,8 +1,8 @@
 ---
-title: Welcome to my website
+title: Welcome to AWM!
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Hello world
+  ## Welcome to the Association for Women in Math @ UC San Diego
 ---
 
 There isn't much going on here yet, but watch this space
