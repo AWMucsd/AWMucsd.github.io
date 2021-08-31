@@ -2,7 +2,7 @@
 title: Welcome to AWM!
 feature_image: "gradient.jpg"
 feature_text: |
-  ## Welcome to the Association for Women in Math @ UC San Diego
+  ## The Association for Women in Math @ UC San Diego
 ---
 
 There isn't much going on here yet, but watch this space
