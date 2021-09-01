@@ -1,5 +1,5 @@
 ---
-title: Board Members
+title: Founding Members
 ---
 
 <figure>
@@ -26,5 +26,11 @@ title: Board Members
   <img src="/assets/foundingMembers/anna.jpg" alt="drawing" width="200"/>
   <figcaption>Anna!</figcaption>
 </figure>
+
+
+---
+title: Board Members
+---
+
 
 I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
