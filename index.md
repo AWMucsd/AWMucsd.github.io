@@ -7,4 +7,4 @@ feature_text: |
 
 We will insert a description here.
 
-[![AWMYouTube](AWMVideoScreenShot.png)](https://www.youtube.com/watch?v=faTobNf-6-k)
+[![AWMYouTube](_images/AWMVideoScreenShot.png)](https://www.youtube.com/watch?v=faTobNf-6-k)
