@@ -2,7 +2,10 @@
 title: Board Members
 ---
 
-<img src="/assets/foundingMembers/hazel.jpg" alt="drawing" width="200"/> <img src="/assets/foundingMembers/brooke.jpg" alt="drawing" width="200"/>
+<p><img src="/assets/foundingMembers/hazel.jpg" alt="drawing" style="float:left;width:42px;height:42px;">
+The image will float to the left of the text.</p>
+
+<img src="/assets/foundingMembers/brooke.jpg" alt="drawing" width="200"/>
 
 <img src="/assets/foundingMembers/katherine.jpg" alt="drawing" width="200"/>
 
