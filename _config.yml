@@ -34,16 +34,16 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: home
-  url: /
 - title: about us
-  url: /about/
-- title: leadership
-  url: /leadership/
-- title: join us
-  url: /join/
+  url: /
 - title: 4 year plans
   url: /fourYrPlan/
+- title: resources
+  url: /resources/
+- title: team
+  url: /team/
+- title: join us
+  url: /join/
 - title: blog
   url: /blog/
 
