@@ -10,6 +10,8 @@ The image will float to the left of the text.</p>
   <figcaption>Brooke!</figcaption>
 </figure>
 
+
+
 <img src="/assets/foundingMembers/katherine.jpg" alt="drawing" width="200"/>
 
 <img src="/assets/foundingMembers/mari.jpg" alt="drawing" width="200"/>
