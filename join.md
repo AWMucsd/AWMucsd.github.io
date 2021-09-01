@@ -2,7 +2,7 @@
 title: Join us
 ---
 
-Become a member and join our mailing list [here](https://forms.gle/oH4N6nk65ybQvd1D8)
+[Become a member and join our mailing list](https://forms.gle/oH4N6nk65ybQvd1D8)
 
 [Join our discord!](https://discord.gg/StkqXPnss5/)
 
