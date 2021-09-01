@@ -3,40 +3,35 @@ title: Founding Members
 ---
 
 ***
-## Co President: Hazel Shah
-
+# Co President: Hazel Shah
 <figure>
   <img src="/assets/foundingMembers/hazel.jpg" alt="drawing" width="200"/>
   <figcaption>Hazel!</figcaption>
 </figure>
 
 ***
-## Co President: Brooke Hollister
-
+# Co President: Brooke Hollister
 <figure>
   <img src="/assets/foundingMembers/brooke.jpg" alt="drawing" width="200"/>
   <figcaption>Brooke!</figcaption>
 </figure>
 
 ***
-## Vice President: Katherine Izhikevich
-
+# Vice President: Katherine Izhikevich
 <figure>
   <img src="/assets/foundingMembers/katherine.jpg" alt="drawing" width="200"/>
   <figcaption>Katherine!</figcaption>
 </figure>
 
 ***
-## Secretary: Mariana Villena
-
+# Secretary: Mariana Villena
 <figure>
   <img src="/assets/foundingMembers/mari.jpg" alt="drawing" width="200"/>
   <figcaption>Mari!</figcaption>
 </figure>
 
 ***
-## Treasurer: Anna Busel
-
+# Treasurer: Anna Busel
 <figure>
   <img src="/assets/foundingMembers/anna.jpg" alt="drawing" width="200"/>
   <figcaption>Anna!</figcaption>
