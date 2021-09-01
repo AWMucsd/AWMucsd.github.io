@@ -6,8 +6,8 @@ title: Board Members
 The image will float to the left of the text.</p>
 
 <figure>
-  <figcaption>Brooke!</figcaption>
   <img src="/assets/foundingMembers/brooke.jpg" alt="drawing" width="200"/>
+  <figcaption>Brooke!</figcaption>
 </figure>
 
 <img src="/assets/foundingMembers/katherine.jpg" alt="drawing" width="200"/>
