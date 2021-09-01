@@ -5,6 +5,5 @@ feature_text: |
   ## The Association for Women in Mathematics @ UC San Diego
 ---
 
-There isn't much going on here yet, but watch this space
-
+We will insert description here.
 
