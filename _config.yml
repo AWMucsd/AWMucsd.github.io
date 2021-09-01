@@ -36,8 +36,8 @@ paginate_path: blog/page:num
 navigation_header:
 - title: about us
   url: /
-- title: 4 year plans
-  url: /fourYrPlan/
+- title: events
+  url: /events/
 - title: resources
   url: /resources/
 - title: team
