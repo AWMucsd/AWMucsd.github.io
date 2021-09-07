@@ -17,7 +17,7 @@ title: Founding Members
 </figure>
 
 <figure>
-  <img align= "right" src="/assets/circleFoundingMembers/mari.png" alt="drawing" width="200"/>
+  <img src="/assets/circleFoundingMembers/mari.png" alt="drawing" width="200"/>
    <figcaption><h3 style="text-align:left;">Secretary: Mariana Villena</h3></figcaption>
 </figure>
 
