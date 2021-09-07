@@ -5,7 +5,7 @@ title: Founding Members
 ***
 # Co President: Hazel Shah
 <figure>
-  <img src="/assets/foundingMembers/hazel.jpg" alt="drawing" width="200" height="250"/>
+  <img src="/assets/foundingMembers/hazel.jpg" alt="drawing" width="200" height="225"/>
   <figcaption>Hazel!</figcaption>
 </figure>
 
