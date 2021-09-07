@@ -10,7 +10,7 @@ title: Founding Members
 
 ### Co President: Brooke Hollister
 <figure>
-  <h1 style="text-align:right;">Co President: Brooke Hollister</h1>
+  <h3 style="text-align:right;">Co President: Brooke Hollister</h3>
   <img align= "right" src="/assets/circleFoundingMembers/brooke.png" alt="drawing" width="200"/>
   <figcaption>Brooke!</figcaption>
 </figure>
