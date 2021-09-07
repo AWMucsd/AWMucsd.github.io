@@ -12,28 +12,28 @@ title: Founding Members
 ***
 # Co President: Brooke Hollister
 <figure>
-  <img src="/assets/foundingMembers/brooke.jpg" alt="drawing" width="200"/>
+  <img src="/assets/foundingMembers/brooke.jpg" alt="drawing" width="200" height="225"/>
   <figcaption>Brooke!</figcaption>
 </figure>
 
 ***
 # Vice President: Katherine Izhikevich
 <figure>
-  <img src="/assets/foundingMembers/katherine.jpg" alt="drawing" width="200"/>
+  <img src="/assets/foundingMembers/katherine.jpg" alt="drawing" width="200" height="225"/>
   <figcaption>Katherine!</figcaption>
 </figure>
 
 ***
 # Secretary: Mariana Villena
 <figure>
-  <img src="/assets/foundingMembers/mari.jpg" alt="drawing" width="200"/>
+  <img src="/assets/foundingMembers/mari.jpg" alt="drawing" width="200" height="225"/>
   <figcaption>Mari!</figcaption>
 </figure>
 
 ***
 # Treasurer: Anna Busel
 <figure>
-  <img src="/assets/foundingMembers/anna.jpg" alt="drawing" width="200"/>
+  <img src="/assets/foundingMembers/anna.jpg" alt="drawing" width="200" height="225"/>
   <figcaption>Anna!</figcaption>
 </figure>
 
