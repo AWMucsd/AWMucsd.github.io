@@ -10,7 +10,7 @@ title: Founding Members
 
 ### Co President: Brooke Hollister
 <figure>
-  <img src="/assets/circleFoundingMembers/brooke.png" alt="drawing" width="200"/>
+  <img align= "right" src="/assets/circleFoundingMembers/brooke.png" alt="drawing" width="200"/>
   <figcaption>Brooke!</figcaption>
 </figure>
 
@@ -22,7 +22,7 @@ title: Founding Members
 
 ### Secretary: Mariana Villena
 <figure>
-  <img src="/assets/circleFoundingMembers/mari.png" alt="drawing" width="200"/>
+  <img align= "right" src="/assets/circleFoundingMembers/mari.png" alt="drawing" width="200"/>
   <figcaption>Mari!</figcaption>
 </figure>
 
