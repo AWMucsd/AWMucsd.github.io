@@ -4,11 +4,11 @@ title: Resources
 
 More about UCSD Mathematics: 
 
-[UCSD Mathematics Deparment](https://math.ucsd.edu/)
+[Mathematics Deparment](https://math.ucsd.edu/)
 
-[Mathematics Undergraduate Handbook](https://math-handbook.ucsd.edu/undergraduate/)
+[Undergraduate Handbook](https://math-handbook.ucsd.edu/undergraduate/)
 
-[UCSD Mathematics General Catalog](https://catalog.ucsd.edu/curric/MATH-ug.html)
+[General Catalog](https://catalog.ucsd.edu/curric/MATH-ug.html)
 
 [Computing Paths](http://computingpaths.ucsd.edu/)
 
