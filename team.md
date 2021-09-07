@@ -19,14 +19,14 @@ title: Founding Members
 ***
 # Vice President: Katherine Izhikevich
 <figure>
-  <img src="/assets/foundingMembers/katherine.jpg" alt="drawing" width="200" height="225"/>
+  <img src="/assets/foundingMembers/katherine.jpg" alt="drawing" width="200" height="250"/>
   <figcaption>Katherine!</figcaption>
 </figure>
 
 ***
 # Secretary: Mariana Villena
 <figure>
-  <img src="/assets/foundingMembers/mari.jpg" alt="drawing" width="200" height="225"/>
+  <img src="/assets/foundingMembers/mari.jpg" alt="drawing" width="200" height="250"/>
   <figcaption>Mari!</figcaption>
 </figure>
 
