@@ -41,7 +41,7 @@ navigation_header:
 - title: resources
   url: /resources/
 - title: team
-  url: /newTeam/
+  url: /team/
 - title: join us
   url: /join/
 - title: blog
