@@ -7,8 +7,7 @@ title: Founding Members
 </figure>
 
 <figure>
-  <h3 style="text-align:right;">Co President: Brooke Hollister</h3>
   <img align= "right" src="/assets/circleFoundingMembers/brooke.png" alt="drawing" width="200"/>
-  <figcaption>Brooke!</figcaption>
+  <figcaption><h3 style="text-align:right;">Co President: Brooke Hollister</h3></figcaption>
 </figure>
 
