@@ -2,7 +2,7 @@
 title: Founding Members
 ---
 <figure>
-   <h3 style="text-align:right;">Co President: Hazel Shah</h3>
+   <h3 style="text-align:left;">Co President: Hazel Shah</h3>
   <img src="/assets/circleFoundingMembers/hazel.png" alt="drawing" width="200"/>
   <figcaption>Hazel!</figcaption>
 </figure>
