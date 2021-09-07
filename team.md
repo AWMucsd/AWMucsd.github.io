@@ -8,38 +8,27 @@ title: Founding Members
   <figcaption>Hazel!</figcaption>
 </figure>
 
-***
 # Co President: Brooke Hollister
 <figure>
   <img src="/assets/circleFoundingMembers/brooke.png" alt="drawing" width="200"/>
   <figcaption>Brooke!</figcaption>
 </figure>
 
-***
 # Vice President: Katherine Izhikevich
 <figure>
   <img src="/assets/circleFoundingMembers/katherine.png" alt="drawing" width="200"/>
   <figcaption>Katherine!</figcaption>
 </figure>
 
-***
 # Secretary: Mariana Villena
 <figure>
   <img src="/assets/circleFoundingMembers/mari.png" alt="drawing" width="200"/>
   <figcaption>Mari!</figcaption>
 </figure>
 
-***
 # Treasurer: Anna Busel
 <figure>
   <img src="/assets/circleFoundingMembers/anna.png" alt="drawing" width="200"/>
   <figcaption>Anna!</figcaption>
 </figure>
 
-
----
-
-# Board Members
-
-
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
