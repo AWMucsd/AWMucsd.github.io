@@ -2,7 +2,8 @@
 title: Resources
 ---
 
-Mathematics Resources: 
+More about UCSD Mathematics: 
+
 [UCSD Mathematics Deparment](https://math.ucsd.edu/)
 
 [Mathematics Undergraduate Handbook](https://math-handbook.ucsd.edu/undergraduate/)
@@ -12,7 +13,8 @@ Mathematics Resources:
 [Computing Paths](http://computingpaths.ucsd.edu/)
 
 
-Majors/Minors in Mathematics:
+Majors/Minors:
+
 [Applied Mathematics B.S.(MA27)](https://math-handbook.ucsd.edu/undergraduate/ma27-applied-mathematics-b-s/)
 
 [Mathematics B.S. (MA29)](https://math-handbook.ucsd.edu/undergraduate/ma29-mathematics-b-s/)
