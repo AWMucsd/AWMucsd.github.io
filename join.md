@@ -1,5 +1,8 @@
 ---
-title: Join us
+title: Resources
+feature_image: "gradient.jpg"
+feature_text: |
+  ## Resources
 ---
 
 [Become a member and join our mailing list](https://forms.gle/oH4N6nk65ybQvd1D8)
