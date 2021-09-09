@@ -1,5 +1,8 @@
 ---
 title: Resources
+feature_image: "gradient.jpg"
+feature_text: |
+  ## Resources
 ---
 
 More about UCSD Mathematics: 
