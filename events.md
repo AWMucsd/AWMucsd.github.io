@@ -1,6 +1,6 @@
 ---
 title: Events
-feature_image: "assets/gradient.jpg"
+feature_image: "/assets/gradient.jpg"
 feature_text: |
   ## Events
 ---
