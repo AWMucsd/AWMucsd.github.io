@@ -9,11 +9,13 @@ feature_text: |
 
 [Join our discord](https://discord.gg/StkqXPnss5/)
 
-[Follow our facebook page](https://www.facebook.com/AWM-UCSD-Undergraduate-Chapter-106072838390798)
+{% include button.html text="Join our discord" link="https://discord.gg/StkqXPnss5/" icon="discord" %}
 
 {% include button.html text="Follow our facebook page" link="https://www.facebook.com/AWM-UCSD-Undergraduate-Chapter-106072838390798" icon="facebook" %}
 
 Follow us on instagram [@awmundergraducsd](https://instagram.com/awmucsd?utm_medium=copy_link)
+
+{% include button.html text="Follow us on instagram" link="https://instagram.com/awmucsd?utm_medium=copy_link" icon="instagram" %}
 
 Email us at awmundergraduate@gmail.com
 
