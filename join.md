@@ -13,5 +13,5 @@ feature_text: |
 
 {% include button.html text="Follow us on instagram" link="https://instagram.com/awmucsd?utm_medium=copy_link" icon="instagram" %}
 
-Email us at awmundergraduate@gmail.com
+Email us at awmundergraduate@gmail.com (making this a contact form)
 
