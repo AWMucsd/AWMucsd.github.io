@@ -26,7 +26,7 @@ baseurl: ''
 title: 'AWMUCSD'
 description: 'AWM UCSD website'
 permalink: pretty
-logo: AWMSimple.png
+logo: /assets/AWMSimple.png
 
 # Pagination
 paginate: 5
