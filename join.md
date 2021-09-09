@@ -5,7 +5,7 @@ feature_text: |
   ## Join us
 ---
 
-[Become a member and join our mailing list](https://forms.gle/oH4N6nk65ybQvd1D8)
+{% include button.html text="Become a member and join our mailing list" link="https://forms.gle/oH4N6nk65ybQvd1D8" %}
 
 {% include button.html text="Join our discord" link="https://discord.gg/StkqXPnss5/" %}
 
