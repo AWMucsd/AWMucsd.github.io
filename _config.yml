@@ -59,7 +59,7 @@ collections:
     output: true
     description: "My thoughts and ideas"
     feature_text: |
-      Welcome to my blog
+      ## This may be a blog, this may be where we put our events
     feature_image: "/assets/gradient.jpg"
 
 # Collection settings
