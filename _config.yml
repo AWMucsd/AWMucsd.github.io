@@ -42,8 +42,8 @@ navigation_header:
   url: /resources/
 - title: team
   url: /team/
-- title: join us
-  url: /join/
+- title: faq
+  url: /faq/
 - title: blog
   url: /blog/
 
