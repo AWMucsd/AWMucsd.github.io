@@ -26,3 +26,26 @@ title: Founding Members
 <figure>
   <img src="/assets/circleFoundingMembers/anna.png" alt="drawing" width="200"/>
 </figure>
+
+
+## Board Members
+
+<h3 style="text-align:left;">Event Planning Co-Chair: Mrinal Sharma</h3>
+<figure>
+  <img src="/assets/boardMembersCircle/Mrinal.png" alt="drawing" width="200"/>
+</figure>
+
+<h3 style="text-align:left;">Social Media/Marketing Co-Chair: Cindy Wang</h3>
+<figure>
+  <img src="/assets/boardMembersCircle/cindy.png" alt="drawing" width="200"/>
+</figure>
+
+<h3 style="text-align:left;">Mentorship Chair: Annalea O'Halloran</h3>
+<figure>
+  <img src="/assets/boardMembersCircle/annalea.png" alt="drawing" width="200"/>
+</figure>
+
+<h3 style="text-align:left;">Web Develpoment Chair: Riko Tanagawa</h3>
+<figure>
+  <img src="/assets/boardMembersCircle/riko.png" alt="drawing" width="200"/>
+</figure>
