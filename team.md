@@ -1,5 +1,8 @@
 ---
 title: Founding Members
+feature_image: "/assets/gradient.jpg"
+feature_text: |
+  ## Meet the team
 ---
 
 <h3 style="text-align:left;">Co President: Hazel Shah</h3>
