@@ -15,7 +15,7 @@ feature_text: |
 
 {% include button.html text="Follow us on instagram" link="https://instagram.com/awmucsd?utm_medium=copy_link" icon="instagram" %}
 
-Email us at awmundergraduate@gmail.com (making this a contact form)
+Email us at <a href = "mailto: awmundergraduate@gmail.com">awmundergraduate@gmail.com</a>
 
 ### How do I join the mentor - mentee program as a graduate mentor?
 
