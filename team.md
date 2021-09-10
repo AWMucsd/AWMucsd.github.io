@@ -28,7 +28,7 @@ title: Founding Members
 </figure>
 
 
-## Board Members
+### Board Members
 
 <h3 style="text-align:left;">Event Planning Co-Chair: Mrinal Sharma</h3>
 <figure>
