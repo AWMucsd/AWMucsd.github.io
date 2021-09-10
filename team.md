@@ -28,7 +28,8 @@ title: Founding Members
 </figure>
 
 
-# Board Members \
+
+# Board Members
 
 
 
