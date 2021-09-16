@@ -20,8 +20,10 @@ UCSD Computing Paths:
 
 AWM the National org:
 
+[![AWMorg](/assets/awmlogo.png)](https://awm-math.org/)
 
-Get to know about women who are currently professionaly active in the mathematics field!
+Essay Contest by AWM:
+
 Find Winning Essays [here](https://awm-math.org/awards/student-essay-contest/)
 
 
