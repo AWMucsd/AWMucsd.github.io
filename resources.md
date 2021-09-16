@@ -16,6 +16,11 @@ More about UCSD Mathematics:
 [Computing Paths](http://computingpaths.ucsd.edu/)
 
 
+AWM Essay Contest:
+
+Find Winning Essays [here](https://awm-math.org/awards/student-essay-contest/)
+
+
 Majors/Minors:
 
 [Applied Mathematics B.S.(MA27)](https://math-handbook.ucsd.edu/undergraduate/ma27-applied-mathematics-b-s/)
