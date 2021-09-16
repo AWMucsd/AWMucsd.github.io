@@ -13,6 +13,8 @@ More about UCSD Mathematics:
 
 [General Catalog](https://catalog.ucsd.edu/curric/MATH-ug.html)
 
+Computing Paths:
+
 [Computing Paths](http://computingpaths.ucsd.edu/)
 
 
