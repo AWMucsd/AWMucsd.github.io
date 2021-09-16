@@ -23,8 +23,8 @@ Fill out the following [google form](https://forms.gle/Z3zFhubV37YEhqLG7) and em
 
 ### How do I join the mentor - mentee program as an undergraduate mentor?
 
-Fill out the following [google form](https://forms.gle/rpkBVDMFqXLGSVn8A)
+Fill out the following [google form](https://forms.gle/7STprGuUQBgxTT6u7)
 
 ### How do I join the mentor - mentee program as an undergraduate mentee?
 
-Fill out the following [google form](https://forms.gle/yzsDNWb5ZNmoRNUP9)
+Fill out the following [google form](https://forms.gle/icSwLgJWe1tCqrFY6)
