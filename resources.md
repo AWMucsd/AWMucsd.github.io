@@ -41,6 +41,6 @@ feature_text: |
 
 [![AWMorg](/assets/awmlogo.png)](https://awm-math.org/)
 
-## Essay Contest by AWM:
+#### Essay Contest by AWM:
 
 Find Winning Essays [here](https://awm-math.org/awards/student-essay-contest/)
