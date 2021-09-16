@@ -15,7 +15,7 @@ More about UCSD Mathematics:
 
 Computing Paths:
 
-[Computing Paths](http://computingpaths.ucsd.edu/)
+[![Computing Paths](/assets/ucsdcplogo.png)](http://computingpaths.ucsd.edu/)
 
 
 AWM Essay Contest:
