@@ -13,8 +13,8 @@ feature_text: |
 
 {% include button.html text="General Catalog" link="https://catalog.ucsd.edu/curric/MATH-ug.html" %}
 
-
-#### Majors/Minors:
+<h3 style="text-align:left;">Majors/Minors:</h3>
+<figure>
 
 [Applied Mathematics B.S.(MA27)](https://math-handbook.ucsd.edu/undergraduate/ma27-applied-mathematics-b-s/)
 
