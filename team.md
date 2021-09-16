@@ -54,7 +54,7 @@ feature_text: |
   <img src="/assets/boardMembersCircle/cindy.png" alt="drawing" width="200"/>
 </figure>
 
-<h3 style="text-align:left;">Social Media/Marketing Co-Chair: Samantha Guillen Aguilar</h3>
+<h4 style="text-align:left;">Social Media/Marketing Co-Chair: Samantha Guillen Aguilar</h4>
 <figure>
   <img src="/assets/boardMembersCircle/samantha.png" alt="drawing" width="200"/>
 </figure>
