@@ -11,9 +11,8 @@ feature_text: |
 
 {% include button.html text="Undergraduate Handbook" link="https://math-handbook.ucsd.edu/undergraduate/" %}
 
-[Undergraduate Handbook](https://math-handbook.ucsd.edu/undergraduate/)
+{% include button.html text="General Catalog" link="https://catalog.ucsd.edu/curric/MATH-ug.html" %}
 
-[General Catalog](https://catalog.ucsd.edu/curric/MATH-ug.html)
 
 ### Majors:
 
