@@ -7,7 +7,7 @@ feature_text: |
 
 More about UCSD Mathematics: 
 
-[Mathematics Deparment](https://math.ucsd.edu/)
+[![Mathematics Deparment](/assets/ucsdmathlogo.png)](https://math.ucsd.edu/)
 
 [Undergraduate Handbook](https://math-handbook.ucsd.edu/undergraduate/)
 
