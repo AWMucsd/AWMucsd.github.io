@@ -9,6 +9,8 @@ feature_text: |
 
 [![Mathematics Deparment](/assets/ucsdmathlogo.png)](https://math.ucsd.edu/)
 
+{% include button.html text="Undergraduate Handbook" link="https://math-handbook.ucsd.edu/undergraduate/" %}
+
 [Undergraduate Handbook](https://math-handbook.ucsd.edu/undergraduate/)
 
 [General Catalog](https://catalog.ucsd.edu/curric/MATH-ug.html)
