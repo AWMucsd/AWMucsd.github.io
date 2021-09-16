@@ -18,8 +18,10 @@ UCSD Computing Paths:
 [![Computing Paths](/assets/ucsdcplogo.png)](http://computingpaths.ucsd.edu/)
 
 
-AWM Essay Contest:
+AWM the National org:
 
+
+Get to know about women who are currently professionaly active in the mathematics field!
 Find Winning Essays [here](https://awm-math.org/awards/student-essay-contest/)
 
 
