@@ -13,7 +13,7 @@ More about UCSD Mathematics:
 
 [General Catalog](https://catalog.ucsd.edu/curric/MATH-ug.html)
 
-Computing Paths:
+UCSD Computing Paths:
 
 [![Computing Paths](/assets/ucsdcplogo.png)](http://computingpaths.ucsd.edu/)
 
@@ -23,7 +23,7 @@ AWM Essay Contest:
 Find Winning Essays [here](https://awm-math.org/awards/student-essay-contest/)
 
 
-Majors/Minors:
+Majors:
 
 [Applied Mathematics B.S.(MA27)](https://math-handbook.ucsd.edu/undergraduate/ma27-applied-mathematics-b-s/)
 
