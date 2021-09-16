@@ -5,7 +5,7 @@ feature_text: |
   ## Resources
 ---
 
-More about UCSD Mathematics: 
+### More about UCSD Mathematics: 
 
 [![Mathematics Deparment](/assets/ucsdmathlogo.png)](https://math.ucsd.edu/)
 
@@ -13,21 +13,7 @@ More about UCSD Mathematics:
 
 [General Catalog](https://catalog.ucsd.edu/curric/MATH-ug.html)
 
-UCSD Computing Paths:
-
-[![Computing Paths](/assets/ucsdcplogo.png)](http://computingpaths.ucsd.edu/)
-
-
-AWM the National org:
-
-[![AWMorg](/assets/awmlogo.png)](https://awm-math.org/)
-
-Essay Contest by AWM:
-
-Find Winning Essays [here](https://awm-math.org/awards/student-essay-contest/)
-
-
-Majors:
+### Majors:
 
 [Applied Mathematics B.S.(MA27)](https://math-handbook.ucsd.edu/undergraduate/ma27-applied-mathematics-b-s/)
 
@@ -44,3 +30,16 @@ Majors:
 [Mathematics - Scientific Computation B.S. (MA34)](https://math-handbook.ucsd.edu/undergraduate/ma34-math-scientific-computation-b-s/)
 
 [Probability & Statistics (MA35)](https://math-handbook.ucsd.edu/undergraduate/ma35-probability-statistics-b-s/)
+
+### UCSD Computing Paths:
+
+[![Computing Paths](/assets/ucsdcplogo.png)](http://computingpaths.ucsd.edu/)
+
+
+### AWM the National org:
+
+[![AWMorg](/assets/awmlogo.png)](https://awm-math.org/)
+
+### Essay Contest by AWM:
+
+Find Winning Essays [here](https://awm-math.org/awards/student-essay-contest/)
