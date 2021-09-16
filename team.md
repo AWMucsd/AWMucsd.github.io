@@ -51,7 +51,7 @@ feature_text: |
   <img src="/assets/boardMembersCircle/annalea.png" alt="drawing" width="200"/>
 </figure>
 
-<h3 style="text-align:left;">Web Develpoment Chair: Riko Tanagawa</h3>
+<h3 style="text-align:left;">Web Development Chair: Riko Tanagawa</h3>
 <figure>
   <img src="/assets/boardMembersCircle/riko.png" alt="drawing" width="200"/>
 </figure>
