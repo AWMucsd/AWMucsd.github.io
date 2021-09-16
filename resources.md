@@ -14,7 +14,7 @@ feature_text: |
 {% include button.html text="General Catalog" link="https://catalog.ucsd.edu/curric/MATH-ug.html" %}
 
 
-### Majors:
+#### Majors/Minors:
 
 [Applied Mathematics B.S.(MA27)](https://math-handbook.ucsd.edu/undergraduate/ma27-applied-mathematics-b-s/)
 
