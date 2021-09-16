@@ -34,11 +34,19 @@ feature_text: |
 
 # Board Members
 
-
+<h3 style="text-align:left;">Event Planning Co-Chair: Abirami Sabbani</h3>
+<figure>
+  <img src="/assets/boardMembersCircle/abirami.png" alt="drawing" width="200"/>
+</figure>
 
 <h3 style="text-align:left;">Event Planning Co-Chair: Mrinal Sharma</h3>
 <figure>
   <img src="/assets/boardMembersCircle/Mrinal.png" alt="drawing" width="200"/>
+</figure>
+
+<h3 style="text-align:left;">Mentorship Chair: Annalea O'Halloran</h3>
+<figure>
+  <img src="/assets/boardMembersCircle/annalea.png" alt="drawing" width="200"/>
 </figure>
 
 <h3 style="text-align:left;">Social Media/Marketing Co-Chair: Cindy Wang</h3>
@@ -46,9 +54,9 @@ feature_text: |
   <img src="/assets/boardMembersCircle/cindy.png" alt="drawing" width="200"/>
 </figure>
 
-<h3 style="text-align:left;">Mentorship Chair: Annalea O'Halloran</h3>
+<h3 style="text-align:left;">Social Media/Marketing Co-Chair: Samantha Guillen Aguilar</h3>
 <figure>
-  <img src="/assets/boardMembersCircle/annalea.png" alt="drawing" width="200"/>
+  <img src="/assets/boardMembersCircle/samantha.png" alt="drawing" width="200"/>
 </figure>
 
 <h3 style="text-align:left;">Web Development Chair: Riko Tanagawa</h3>
