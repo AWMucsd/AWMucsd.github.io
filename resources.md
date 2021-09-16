@@ -13,8 +13,7 @@ feature_text: |
 
 {% include button.html text="General Catalog" link="https://catalog.ucsd.edu/curric/MATH-ug.html" %}
 
-<h3 style="text-align:left;">Majors/Minors:</h3>
-<figure>
+### Majors/Minors:
 
 [Applied Mathematics B.S.(MA27)](https://math-handbook.ucsd.edu/undergraduate/ma27-applied-mathematics-b-s/)
 
@@ -41,6 +40,6 @@ feature_text: |
 
 [![AWMorg](/assets/awmlogo.png)](https://awm-math.org/)
 
-#### Essay Contest by AWM:
+### Essay Contest by AWM:
 
 Find Winning Essays [here](https://awm-math.org/awards/student-essay-contest/)
