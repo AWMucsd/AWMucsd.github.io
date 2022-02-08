@@ -1,5 +1,5 @@
 ---
-title: Events
+title:
 feature_image: "/assets/gradient.jpg"
 feature_text: |
   ## Events
