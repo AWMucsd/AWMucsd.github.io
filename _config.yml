@@ -38,14 +38,14 @@ navigation_header:
   url: /
 - title: events
   url: /events/
-- title: resources
-  url: /resources/
+# - title: resources
+#   url: /resources/
 - title: team
   url: /team/
 - title: faq
   url: /faq/
-- title: blog
-  url: /blog/
+# - title: blog
+#  url: /blog/
 
 # Footer nav
 navigation_footer:
