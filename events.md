@@ -8,5 +8,10 @@ feature_text: |
 <br/>
 #### 03/1: Coding Masterclass 5pm
 <br/>
+#### Past events:
+<br/>
+<figure>
+  <img src="/assets/circleFoundingMembers/brooke.png" alt="drawing" width="200"/>
+</figure>
 
 
