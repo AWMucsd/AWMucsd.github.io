@@ -10,6 +10,9 @@ feature_text: |
 <br/>
 #### Past events:
 <br/>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](/assets/pastflyers/IMG_3222.jpg)  |  ![](/assets/pastflyers/IMG_3223.jpg)
 <div class="row">
   <div class="column">
      <img src="/assets/pastflyers/IMG_3222.jpg" alt="drawing" width="200"/>
